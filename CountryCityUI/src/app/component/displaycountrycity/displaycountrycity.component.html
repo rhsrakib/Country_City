@@ -1,0 +1,34 @@
+<div class="row">
+    <div class="col-12">
+      <h3 class="text-center">Country List with Cities</h3>
+      <table class="table table-bordered table-striped-columns">
+        <thead><tr>
+            <th>SL NO</th><th>Image</th><th>Country Name</th>
+            <th>ISO2</th> <th>ISO3</th><th>City Name</th>
+            <th>Lot</th><th>Lan</th><th>Action</th>
+        </tr></thead>
+        <tbody>
+          <ng-container *ngFor="let countryWithCities of countryList; let i = index">
+            <tr *ngFor="let city of countryWithCities.cities; let j = index">
+                <td *ngIf="j === 0" [attr.rowspan]="countryWithCities.cities.length">{{ i + 1 }}</td>
+                <td>
+                    <span style="margin-right: 10px;">
+                        <img style="width: 40px;" [src]="imageUrl+countryWithCities.country.picture" class="img">
+                      </span>
+                </td>              
+              <td *ngIf="j === 0" [attr.rowspan]="countryWithCities.cities.length">{{ countryWithCities.country.name }}</td>
+              <td *ngIf="j === 0" [attr.rowspan]="countryWithCities.cities.length">{{ countryWithCities.country.iso2 }}</td>
+              <td *ngIf="j === 0" [attr.rowspan]="countryWithCities.cities.length">{{ countryWithCities.country.iso3 }}</td>
+              <td>{{ city.name }}</td>
+              <td>{{ city.lot }}</td>
+              <td>{{ city.lan }}</td>
+              <td *ngIf="j === 0">
+                <a class="btn btn-danger btn-sm" [routerLink]="['/countrycity','edit',countryWithCities.country.id]">Edit</a>  |
+                  <a class="btn btn-primary btn-sm" [routerLink]="[]" (click)="deleteCountryWithCities(countryWithCities.country.id)">Delete</a> |                 
+              </td>
+            </tr>
+          </ng-container>
+        </tbody>
+      </table>
+    </div>
+  </div>

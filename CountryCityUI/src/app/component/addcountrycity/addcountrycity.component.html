@@ -1,0 +1,65 @@
+<div class="row">
+    <div class="col-6">
+        <h3> Add Country</h3>
+        <div class="mb-2">
+            <label>Country</label>
+            <input placeholder="Enter Country" [(ngModel)]="countryObj.name" class="form-control">
+        </div>
+            <div class="mb-2">
+             <label>ISO2</label>
+             <input placeholder="Enter ISO2" [(ngModel)]="countryObj.iso2" class="form-control">               
+           </div> 
+           <div class="mb-2">
+            <label>ISO3</label>
+            <input placeholder="Enter ISO3" [(ngModel)]="countryObj.iso3" class="form-control">
+        </div>
+        <div class="mb-2">
+            <label>Picture</label>
+            <div class="col-md-10">
+              <img [src]="url" title="picture" height="80px" width="80px" /><br>
+              <input type="file" id="img"  accept="image/*" (change)="onFileSelected($event)"/>
+            </div>
+          </div>
+        <div class="mb-2 mt-4">
+            <button type="submit" class="btn btn-primary" (click)="addCountryAndCities()">Submit</button>
+        </div>       
+    </div>
+    <div class="col-6">
+        <h3> Add City</h3>
+        <div class="row">
+            <div class="col-3">
+                <label>Name</label>
+                <input type="text"  [(ngModel)]="cityObj.name" class="form-control">
+            </div>
+            <div class="col-3">
+                <label>Lot</label>
+                <input type="text" [(ngModel)]="cityObj.lot" class="form-control" >
+            </div>
+            <div class="col-3">
+                <label>Lan</label>
+                <input type="text" [(ngModel)]="cityObj.lan" class="form-control" >
+            </div>
+            <div class="col-3 mt-4 text-center" >
+                <button (click)="addCities()" class="btn btn-sm bg-primary" style="color: #fff;" >Add City</button>
+            </div>
+        </div>
+        <div class="row mt-2">
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>City</th> <th>Lot</th> <th>Lan</th><th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let item of cityList">
+                        <td>{{item.name}}</td><td>{{item.lot}}</td>
+                        <td>{{item.lan}}</td>
+                        <td>
+                            <button class="btn btn-danger btn-sm" (click)="deletecity(item, cityList)">Delete</button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>        
+    </div>
+</div>

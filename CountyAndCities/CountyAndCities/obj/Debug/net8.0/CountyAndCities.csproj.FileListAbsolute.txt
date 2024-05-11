@@ -1,0 +1,420 @@
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\appsettings.Development.json
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\appsettings.json
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.exe
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.deps.json
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.runtimeconfig.json
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.pdb
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Azure.Core.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Azure.Identity.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Humanizer.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.CodeDom.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Memory.Data.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.csproj.AssemblyReference.cache
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.GeneratedMSBuildEditorConfig.editorconfig
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.AssemblyInfoInputs.cache
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.AssemblyInfo.cs
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.csproj.CoreCompileInputs.cache
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.MvcApplicationPartsAssemblyInfo.cs
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.MvcApplicationPartsAssemblyInfo.cache
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets.build.json
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets.development.json
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets\msbuild.CountyAndCities.Microsoft.AspNetCore.StaticWebAssets.props
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets\msbuild.build.CountyAndCities.props
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CountyAndCities.props
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CountyAndCities.props
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets.pack.json
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\scopedcss\bundle\CountyAndCities.styles.css
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.csproj.CopyComplete
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\refint\CountyAndCities.dll
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.pdb
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.genruntimeconfig.cache
+D:\last_55\For_55\CountyAndCities\CountyAndCities\obj\Debug\net8.0\ref\CountyAndCities.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\appsettings.Development.json
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\appsettings.json
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.exe
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.deps.json
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.runtimeconfig.json
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.pdb
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Azure.Core.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Azure.Identity.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Humanizer.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.CodeDom.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Memory.Data.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.csproj.AssemblyReference.cache
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.GeneratedMSBuildEditorConfig.editorconfig
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.AssemblyInfoInputs.cache
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.AssemblyInfo.cs
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.csproj.CoreCompileInputs.cache
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.MvcApplicationPartsAssemblyInfo.cs
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.MvcApplicationPartsAssemblyInfo.cache
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets.build.json
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets.development.json
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets\msbuild.CountyAndCities.Microsoft.AspNetCore.StaticWebAssets.props
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets\msbuild.build.CountyAndCities.props
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CountyAndCities.props
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CountyAndCities.props
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets.pack.json
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\scopedcss\bundle\CountyAndCities.styles.css
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.csproj.CopyComplete
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\refint\CountyAndCities.dll
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.pdb
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.genruntimeconfig.cache
+D:\last_55\For_55\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\ref\CountyAndCities.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\appsettings.Development.json
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\appsettings.json
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.exe
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.deps.json
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.runtimeconfig.json
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\CountyAndCities.pdb
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Azure.Core.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Azure.Identity.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Humanizer.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.CodeDom.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Memory.Data.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.csproj.AssemblyReference.cache
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.GeneratedMSBuildEditorConfig.editorconfig
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.AssemblyInfoInputs.cache
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.AssemblyInfo.cs
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.csproj.CoreCompileInputs.cache
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.MvcApplicationPartsAssemblyInfo.cs
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.MvcApplicationPartsAssemblyInfo.cache
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets.build.json
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets.development.json
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets\msbuild.CountyAndCities.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets\msbuild.build.CountyAndCities.props
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CountyAndCities.props
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CountyAndCities.props
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\staticwebassets.pack.json
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\scopedcss\bundle\CountyAndCities.styles.css
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAn.1E913CBE.Up2Date
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\refint\CountyAndCities.dll
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.pdb
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\CountyAndCities.genruntimeconfig.cache
+D:\IsDB-Bisew\11. Pro Angular\CountryAndCitiesProject\CountyAndCities\CountyAndCities\obj\Debug\net8.0\ref\CountyAndCities.dll
